@@ -120,15 +120,6 @@ A private-security mobile experience for client onboarding, verification, and da
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zachyanez&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachyanez&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## Let’s connect
 
 I’m always interested in ambitious product work, strong teams, and thoughtful software.
